@@ -1,5 +1,4 @@
-<img
-  src="[https://github.com/Shehnaz-R/Suraksha-Kavach/blob/main/new.svg]"
-  width="100%"
-  alt="GitHub Contribution Snake">
-<br><br>
+
+<a href="#services">
+  <img src="new.svg" width="100%" alt="Shehnaz Rangrez — design, UI/UX, AI agents, data analysis and web development.">
+</a>
